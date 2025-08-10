@@ -44,11 +44,6 @@
    - 在Typora中: `文件` → `偏好设置` → `外观` → `打开主题文件夹`
    - 重启Typora并选择 `Nord Obsidian` 主题
 
-3. **自动安装** (macOS/Linux)
-   ```bash
-   chmod +x install-theme.sh
-   ./install-theme.sh
-   ```
 
 ### 🎯 设计理念
 
@@ -124,10 +119,6 @@ A Typora theme based on the Nord color palette, migrating the Obsidian Blue-Topa
    - In Typora: `File` → `Preferences` → `Appearance` → `Open Theme Folder`
    - Restart Typora and select `Nord Obsidian` theme
 
-3. **Auto Install** (macOS/Linux)
-   ```bash
-   chmod +x install-theme.sh
-   ./install-theme.sh
    ```
 
 ### 🎯 Design Philosophy
